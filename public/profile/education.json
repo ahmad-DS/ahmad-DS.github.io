@@ -1,0 +1,34 @@
+{
+    "education":[
+        {
+            "title": "Jan 2022 - Continue",
+            "cardTitle": "Full Stack Web Development",
+            "cardSubtitle":"Masai School, Banglore",
+            "cardDetailedText": "Good Performer",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Sep 2015 - May 2019",
+            "cardTitle": "B.Tech, Mechanical Engineering",
+            "cardSubtitle":"BIT Sindri, Dhanbad",
+            "cardDetailedText": "CGPA - 7.00",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2012",
+            "cardTitle": "10+2",
+            "cardSubtitle":"HPB College, Banka",
+            "cardDetailedText": "Marks - 62%"
+        },
+        {
+            "title": "Apr 2012",
+            "cardTitle": "High School",
+            "cardSubtitle":"Vikas High School, Palojori",
+            "cardDetailedText": "Marks - 70%"
+        }
+    ]
+}
