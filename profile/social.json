@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shakil-ahmad-6b3a79126/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ahmad-DS"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ahmad.shakil444@gmail.com"
+        }
+    ]
+}

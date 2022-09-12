@@ -1,0 +1,69 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Buffer1.png",
+            "title": "Buffer website clone",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vin9012d/Buffer_clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://bufferr.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "React-Redux",
+                "Redux-Thunk",
+                "Chakra",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/Headphone1.jpeg",
+            "title": "Headphone Zone -  A headphone selling e-com website clone",
+            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/iammostak/headphonezone.in"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://clone-headphonezone.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/Apollo1.png",
+            "title": "Apollo Pharmacy e-com website clone",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ahmad-DS/WEB18-APOLLO24X7"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://calm-alpaca-414005.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ]
+        }
+        
+    ]
+}
