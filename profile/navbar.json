@@ -1,8 +1,9 @@
 {
     "logo" : {
-        "source": "images/logo.png",
+        "source": "images/SA2.png",
         "height" : 45,
-        "width" : 50
+        "width" : 70,
+        "objectFit":"contain"
     },
     "sections": [
         {
