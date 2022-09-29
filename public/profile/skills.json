@@ -1,15 +1,9 @@
 {
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
-            "items" : [
-     
-                
-                {
-                    "icon": "images/skills/typescript.png",
-                    "title": "TypeScript"
-                },
+    "skills": [
+        {
+            "title": "Tech Stacks & Tools",
+            "items": [
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
@@ -19,28 +13,126 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
-                }
-        ]},
-        {
-            "title": "Frameworks & Technologies",
-            "items" : [
-               
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "NodeJS"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/babel.png",
+                    "title": "Babel"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/chakra.png",
+                    "title": "Chakra-UI"
+                },
+                {
+                    "icon": "images/skills/cypress.png",
+                    "title": "Cypress"
+                },
+                {
+                    "icon": "images/skills/express.png",
+                    "title": "Express"
+                },
+                {
+                    "icon": "images/skills/heroku.png",
+                    "title": "Heroku"
+                },
+                {
+                    "icon": "images/skills/jest.png",
+                    "title": "Jest"
+                },
+                {
+                    "icon": "images/skills/netlify.png",
+                    "title": "Netlify"
+                },
+                {
+                    "icon": "images/skills/npm.png",
+                    "title": "NPM"
+                },
+                {
+                    "icon": "images/skills/router.png",
+                    "title": "React-Router"
+                },
+                {
+                    "icon": "images/skills/redux.png",
+                    "title": "Redux"
+                },
+                {
+                    "icon": "images/skills/vercel.png",
+                    "title": "Vercel"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Skills",
             "items": [
-               
                 {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "icon": "images/skills/active-listening.png",
+                    "title": "Active Listening"
+                },
+                {
+                    "icon": "images/skills/algorithms.png",
+                    "title": "Algorithms"
+                },
+                {
+                    "icon": "images/skills/data-structure.png",
+                    "title": "Data Structure"
+                },
+                {
+                    "icon": "images/skills/frontend.png",
+                    "title": "Frontend"
+                },
+                {
+                    "icon": "images/skills/hardworking.png",
+                    "title": "Hard Working"
+                },
+                {
+                    "icon": "images/skills/patience.jpg",
+                    "title": "Patience"
+                },
+                {
+                    "icon": "images/skills/interpersonal-skill.jpg",
+                    "title": "Interpersonal Skill"
+                },
+                {
+                    "icon": "images/skills/backend.png",
+                    "title": "Backend"
+                },
+                {
+                    "icon": "images/skills/positive-thinking.jpg",
+                    "title": "Positive Thinking"
                 }
             ]
-    }
-]}
+        }
+       
+
+       
+    ]
+}

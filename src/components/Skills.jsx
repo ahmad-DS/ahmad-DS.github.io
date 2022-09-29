@@ -62,10 +62,19 @@ function Skills(props) {
                   ))}
                 </div>
               ))}
+
+              <h3>Github Stats</h3>
+              <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap' }}>
+                <img src="https://github-readme-stats.vercel.app/api?username=ahmad-DS&show_icons=true&title_color=0087ca&icon_color=0087ca&border_radius=10&hide_border=ture&text_color=808080" alt="" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-DS&layout=compact&show_icons=true&title_color=0087ca&icon_color=0087ca&border_radius=10&hide_border=ture&text_color=808080" alt="" />
+              </div>
+              <div>
+                <img src="" alt="" />
+              </div>
             </Container>
           </div>
         </Fade>
-      ) : <FallbackSpinner /> }
+      ) : <FallbackSpinner />}
     </>
   );
 }
