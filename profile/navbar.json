@@ -3,7 +3,7 @@
         "source": "images/SA2.png",
         "height" : 45,
         "width" : 70,
-        "objectFit":"contain"
+        "objectFit":"cover"
     },
     "sections": [
         {
