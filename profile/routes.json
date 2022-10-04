@@ -16,8 +16,8 @@
             "headerTitle": "Education"
         },
         {
-            "component": "Experience",
-            "path": "/experience",
+            "component": "Contact",
+            "path": "/contact",
             "headerTitle": "Contact"
         },
         {
